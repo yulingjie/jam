@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ylj/jam/test/src/main.cpp
+stdio.h
+-
+string
+-
+tl.h
+/home/ylj/jam/test/src/tl.h
+
+/home/ylj/jam/test/src/tl.cpp
+tl.h
+/home/ylj/jam/test/src/tl.h
+
+/home/ylj/jam/test/src/tl.h
+

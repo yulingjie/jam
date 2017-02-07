@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ylj/jam/question1/build/gen_testIntSize.cpp
+cxxtest/TestListener.h
+-
+cxxtest/TestTracker.h
+-
+cxxtest/TestRunner.h
+-
+cxxtest/RealDescriptions.h
+-
+cxxtest/TestMain.h
+-
+cxxtest/ErrorPrinter.h
+-
+../test/TestDataCorrect.h
+/home/ylj/jam/question1/test/TestDataCorrect.h
+cxxtest/Root.cpp
+-
+
+/home/ylj/jam/question1/test/TestDataCorrect.h
+cxxtest/TestSuite.h
+-
+iostream
+-
+fstream
+-
+vector
+-
+bitset
+-
+cstdio
+-
+

@@ -1,0 +1,190 @@
+Start testing: Feb 05 11:01 CST
+----------------------------------------------------------
+1/1 Testing: testMergeInMemory
+1/1 Test: testMergeInMemory
+Command: "/home/ylj/jam/question1/bin/testMergeInMemory"
+Directory: /home/ylj/jam/question1/build
+"testMergeInMemory" start time: Feb 05 11:01 CST
+Output:
+----------------------------------------------------------
+Running cxxtest tests (1 test)test merge sort
+==============span 1 ================
+    lStartIndex 0    lLimit 1 rStartIndex 1     rLimit 2
+compare between lIndex 0 lData 10 rIndex 1 rData2
+use ldata 
+    after one order  10  2 
+    lStartIndex 2    lLimit 3 rStartIndex 3     rLimit 4
+compare between lIndex 2 lData 5 rIndex 3 rData0
+use ldata 
+    after one order  5  0 
+    lStartIndex 4    lLimit 5 rStartIndex 5     rLimit 6
+compare between lIndex 4 lData 9 rIndex 5 rData8
+use ldata 
+    after one order  9  8 
+    lStartIndex 6    lLimit 7 rStartIndex 7     rLimit 8
+compare between lIndex 6 lData 4 rIndex 7 rData5
+use rdata
+    after one order  5  4 
+    lStartIndex 8    lLimit 9 rStartIndex 9     rLimit 10
+compare between lIndex 8 lData 2 rIndex 9 rData1
+use ldata 
+    after one order  2  1 
+    lStartIndex 10    lLimit 11 rStartIndex 11     rLimit 12
+compare between lIndex 10 lData 3 rIndex 11 rData1
+use ldata 
+    after one order  3  1 
+    lStartIndex 12    lLimit 13 rStartIndex 13     rLimit 14
+compare between lIndex 12 lData 11 rIndex 13 rData12
+use rdata
+    after one order  12  11 
+    lStartIndex 14    lLimit 15 rStartIndex 15     rLimit 16
+compare between lIndex 14 lData 21 rIndex 15 rData11
+use ldata 
+    after one order  21  11 
+    lStartIndex 16    lLimit 17 rStartIndex 17     rLimit 18
+compare between lIndex 16 lData 22 rIndex 17 rData23
+use rdata
+    after one order  23  22 
+    lStartIndex 18    lLimit 19 rStartIndex 19     rLimit 20
+compare between lIndex 18 lData 26 rIndex 19 rData43
+use rdata
+    after one order  43  26 
+    lStartIndex 20    lLimit 21 rStartIndex 21     rLimit 21
+    after one order  11 
+==============span 2 ================
+    lStartIndex 0    lLimit 2 rStartIndex 2     rLimit 4
+compare between lIndex 0 lData 10 rIndex 2 rData5
+use ldata 
+compare between lIndex 1 lData 2 rIndex 2 rData5
+use rdata
+compare between lIndex 1 lData 2 rIndex 3 rData0
+use ldata 
+    after one order  10  5  2  0 
+    lStartIndex 4    lLimit 6 rStartIndex 6     rLimit 8
+compare between lIndex 4 lData 9 rIndex 6 rData5
+use ldata 
+compare between lIndex 5 lData 8 rIndex 6 rData5
+use ldata 
+    after one order  9  8  5  4 
+    lStartIndex 8    lLimit 10 rStartIndex 10     rLimit 12
+compare between lIndex 8 lData 2 rIndex 10 rData3
+use rdata
+compare between lIndex 8 lData 2 rIndex 11 rData1
+use ldata 
+compare between lIndex 9 lData 1 rIndex 11 rData1
+use rdata
+    after one order  3  2  1  1 
+    lStartIndex 12    lLimit 14 rStartIndex 14     rLimit 16
+compare between lIndex 12 lData 12 rIndex 14 rData21
+use rdata
+compare between lIndex 12 lData 12 rIndex 15 rData11
+use ldata 
+compare between lIndex 13 lData 11 rIndex 15 rData11
+use rdata
+    after one order  21  12  11  11 
+    lStartIndex 16    lLimit 18 rStartIndex 18     rLimit 20
+compare between lIndex 16 lData 23 rIndex 18 rData43
+use rdata
+compare between lIndex 16 lData 23 rIndex 19 rData26
+use rdata
+    after one order  43  26  23  22 
+    lStartIndex 20    lLimit 21 rStartIndex 22     rLimit 21
+    after one order  11 
+==============span 4 ================
+    lStartIndex 0    lLimit 4 rStartIndex 4     rLimit 8
+compare between lIndex 0 lData 10 rIndex 4 rData9
+use ldata 
+compare between lIndex 1 lData 5 rIndex 4 rData9
+use rdata
+compare between lIndex 1 lData 5 rIndex 5 rData8
+use rdata
+compare between lIndex 1 lData 5 rIndex 6 rData5
+use rdata
+compare between lIndex 1 lData 5 rIndex 7 rData4
+use ldata 
+compare between lIndex 2 lData 2 rIndex 7 rData4
+use rdata
+    after one order  10  9  8  5  5  4  2  0 
+    lStartIndex 8    lLimit 12 rStartIndex 12     rLimit 16
+compare between lIndex 8 lData 3 rIndex 12 rData21
+use rdata
+compare between lIndex 8 lData 3 rIndex 13 rData12
+use rdata
+compare between lIndex 8 lData 3 rIndex 14 rData11
+use rdata
+compare between lIndex 8 lData 3 rIndex 15 rData11
+use rdata
+    after one order  21  12  11  11  3  2  1  1 
+    lStartIndex 16    lLimit 20 rStartIndex 20     rLimit 21
+compare between lIndex 16 lData 43 rIndex 20 rData11
+use ldata 
+compare between lIndex 17 lData 26 rIndex 20 rData11
+use ldata 
+compare between lIndex 18 lData 23 rIndex 20 rData11
+use ldata 
+compare between lIndex 19 lData 22 rIndex 20 rData11
+use ldata 
+    after one order  43  26  23  22  11 
+==============span 8 ================
+    lStartIndex 0    lLimit 8 rStartIndex 8     rLimit 16
+compare between lIndex 0 lData 10 rIndex 8 rData21
+use rdata
+compare between lIndex 0 lData 10 rIndex 9 rData12
+use rdata
+compare between lIndex 0 lData 10 rIndex 10 rData11
+use rdata
+compare between lIndex 0 lData 10 rIndex 11 rData11
+use rdata
+compare between lIndex 0 lData 10 rIndex 12 rData3
+use ldata 
+compare between lIndex 1 lData 9 rIndex 12 rData3
+use ldata 
+compare between lIndex 2 lData 8 rIndex 12 rData3
+use ldata 
+compare between lIndex 3 lData 5 rIndex 12 rData3
+use ldata 
+compare between lIndex 4 lData 5 rIndex 12 rData3
+use ldata 
+compare between lIndex 5 lData 4 rIndex 12 rData3
+use ldata 
+compare between lIndex 6 lData 2 rIndex 12 rData3
+use rdata
+compare between lIndex 6 lData 2 rIndex 13 rData2
+use rdata
+compare between lIndex 6 lData 2 rIndex 14 rData1
+use ldata 
+compare between lIndex 7 lData 0 rIndex 14 rData1
+use rdata
+compare between lIndex 7 lData 0 rIndex 15 rData1
+use rdata
+    after one order  21  12  11  11  10  9  8  5  5  4  3  2  2  1  1  0 
+    lStartIndex 16    lLimit 21 rStartIndex 24     rLimit 21
+    after one order  43  26  23  22  11 
+==============span 16 ================
+    lStartIndex 0    lLimit 16 rStartIndex 16     rLimit 21
+compare between lIndex 0 lData 21 rIndex 16 rData43
+use rdata
+compare between lIndex 0 lData 21 rIndex 17 rData26
+use rdata
+compare between lIndex 0 lData 21 rIndex 18 rData23
+use rdata
+compare between lIndex 0 lData 21 rIndex 19 rData22
+use rdata
+compare between lIndex 0 lData 21 rIndex 20 rData11
+use ldata 
+compare between lIndex 1 lData 12 rIndex 20 rData11
+use ldata 
+compare between lIndex 2 lData 11 rIndex 20 rData11
+use rdata
+    after one order  43  26  23  22  21  12  11  11  11  10  9  8  5  5  4  3  2  2  1  1  0 
+before delete
+.OK!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testMergeInMemory" end time: Feb 05 11:01 CST
+"testMergeInMemory" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 05 11:01 CST

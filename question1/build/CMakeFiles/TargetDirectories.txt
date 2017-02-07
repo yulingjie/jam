@@ -1,0 +1,7 @@
+/home/ylj/jam/question1/build/CMakeFiles/test.dir
+/home/ylj/jam/question1/build/CMakeFiles/edit_cache.dir
+/home/ylj/jam/question1/build/CMakeFiles/test1.dir
+/home/ylj/jam/question1/build/CMakeFiles/rebuild_cache.dir
+/home/ylj/jam/question1/build/CMakeFiles/testMergeInMemory.dir
+/home/ylj/jam/question1/build/CMakeFiles/testGenData.dir
+/home/ylj/jam/question1/build/CMakeFiles/testIntSize.dir

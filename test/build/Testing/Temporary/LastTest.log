@@ -1,0 +1,19 @@
+Start testing: Feb 05 09:58 CST
+----------------------------------------------------------
+1/1 Testing: unittest_foo
+1/1 Test: unittest_foo
+Command: "/home/ylj/jam/test/bin/unittest_foo"
+Directory: /home/ylj/jam/test/build
+"unittest_foo" start time: Feb 05 09:58 CST
+Output:
+----------------------------------------------------------
+Running cxxtest tests (1 test).OK!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"unittest_foo" end time: Feb 05 09:58 CST
+"unittest_foo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 05 09:58 CST

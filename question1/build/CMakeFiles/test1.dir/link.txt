@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/test1.dir/src/MergeSort.cpp.o CMakeFiles/test1.dir/src/main.cpp.o  -o ../bin/test1 -rdynamic 

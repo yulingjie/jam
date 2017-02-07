@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ylj/jam/question1/src/MergeSort.cpp
+MergeSort.h
+/home/ylj/jam/question1/src/MergeSort.h
+algorithm
+-
+cstring
+-
+iostream
+-
+
+/home/ylj/jam/question1/src/MergeSort.h
+string
+-
+
+/home/ylj/jam/question1/src/main.cpp
+MergeSort.h
+/home/ylj/jam/question1/src/MergeSort.h
+

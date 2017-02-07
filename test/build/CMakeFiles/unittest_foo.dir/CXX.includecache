@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ylj/jam/test/build/tests.cpp
+cxxtest/TestListener.h
+-
+cxxtest/TestTracker.h
+-
+cxxtest/TestRunner.h
+-
+cxxtest/RealDescriptions.h
+-
+cxxtest/TestMain.h
+-
+cxxtest/ErrorPrinter.h
+-
+../test/MyTestSuite.h
+/home/ylj/jam/test/test/MyTestSuite.h
+cxxtest/Root.cpp
+-
+
+/home/ylj/jam/test/src/tl.cpp
+tl.h
+/home/ylj/jam/test/src/tl.h
+
+/home/ylj/jam/test/src/tl.h
+
+/home/ylj/jam/test/test/MyTestSuite.h
+cxxtest/TestSuite.h
+-
+../src/tl.h
+/home/ylj/jam/test/src/tl.h
+

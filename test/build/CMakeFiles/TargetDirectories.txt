@@ -1,0 +1,5 @@
+/home/ylj/jam/test/build/CMakeFiles/test.dir
+/home/ylj/jam/test/build/CMakeFiles/unittest_foo.dir
+/home/ylj/jam/test/build/CMakeFiles/test1.dir
+/home/ylj/jam/test/build/CMakeFiles/edit_cache.dir
+/home/ylj/jam/test/build/CMakeFiles/rebuild_cache.dir

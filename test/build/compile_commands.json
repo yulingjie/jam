@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/ylj/jam/test/build",
+  "command": "/usr/bin/c++       -o CMakeFiles/unittest_foo.dir/tests.cpp.o -c /home/ylj/jam/test/build/tests.cpp",
+  "file": "/home/ylj/jam/test/build/tests.cpp"
+},
+{
+  "directory": "/home/ylj/jam/test/build",
+  "command": "/usr/bin/c++       -o CMakeFiles/unittest_foo.dir/src/tl.cpp.o -c /home/ylj/jam/test/src/tl.cpp",
+  "file": "/home/ylj/jam/test/src/tl.cpp"
+},
+{
+  "directory": "/home/ylj/jam/test/build",
+  "command": "/usr/bin/c++       -o CMakeFiles/test1.dir/src/main.cpp.o -c /home/ylj/jam/test/src/main.cpp",
+  "file": "/home/ylj/jam/test/src/main.cpp"
+},
+{
+  "directory": "/home/ylj/jam/test/build",
+  "command": "/usr/bin/c++       -o CMakeFiles/test1.dir/src/tl.cpp.o -c /home/ylj/jam/test/src/tl.cpp",
+  "file": "/home/ylj/jam/test/src/tl.cpp"
+}
+]

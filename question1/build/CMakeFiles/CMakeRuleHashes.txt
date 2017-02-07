@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+30e23526bdf75029c8a560a7c3912549 gen_testGenData.cpp
+3fd3444877aef08c38b39323c0adb50c gen_testIntSize.cpp
+ebab7f47d01e1920e068d22e84efb11b gen_testMergeInMemory.cpp

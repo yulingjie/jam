@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/ylj/jam/question1/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/test1.dir/src/MergeSort.cpp.o -c /home/ylj/jam/question1/src/MergeSort.cpp",
+  "file": "/home/ylj/jam/question1/src/MergeSort.cpp"
+},
+{
+  "directory": "/home/ylj/jam/question1/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/test1.dir/src/main.cpp.o -c /home/ylj/jam/question1/src/main.cpp",
+  "file": "/home/ylj/jam/question1/src/main.cpp"
+},
+{
+  "directory": "/home/ylj/jam/question1/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/testMergeInMemory.dir/gen_testMergeInMemory.cpp.o -c /home/ylj/jam/question1/build/gen_testMergeInMemory.cpp",
+  "file": "/home/ylj/jam/question1/build/gen_testMergeInMemory.cpp"
+},
+{
+  "directory": "/home/ylj/jam/question1/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/testMergeInMemory.dir/src/MergeSort.cpp.o -c /home/ylj/jam/question1/src/MergeSort.cpp",
+  "file": "/home/ylj/jam/question1/src/MergeSort.cpp"
+},
+{
+  "directory": "/home/ylj/jam/question1/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/testGenData.dir/gen_testGenData.cpp.o -c /home/ylj/jam/question1/build/gen_testGenData.cpp",
+  "file": "/home/ylj/jam/question1/build/gen_testGenData.cpp"
+},
+{
+  "directory": "/home/ylj/jam/question1/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/testIntSize.dir/gen_testIntSize.cpp.o -c /home/ylj/jam/question1/build/gen_testIntSize.cpp",
+  "file": "/home/ylj/jam/question1/build/gen_testIntSize.cpp"
+}
+]
